@@ -1,0 +1,150 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(245, 243, 243);
+}
+
+.bloc-promotion {
+    margin-top: 10em;
+    position: absolute;
+    width: 78vw;
+    height: 65vh;
+    /* top: 18vh; */
+    background-color: white;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.barre {
+    position: relative;
+    height: 45em;
+    margin-top: 7.3em;
+    margin-left: 5em;
+    width: 1px;
+    background-color: #ccc;
+}
+
+.Num-1 {
+    position: absolute;
+    background-color: #009087;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1em;
+    margin-left: 1em;
+    color: white;
+    font-size: 25px;
+}
+
+.Num-2 {
+    background-color: #ccc;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1em;
+    font-size: 25px;
+}
+
+.ref {
+    position: absolute;
+    margin-top: 0.1em;
+    margin-left: 3.5em;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.promo {
+    position: absolute;
+    margin-top: 1.5em;
+    margin-left: 3.5em;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.form {
+    position: absolute;
+    margin-left: 3em;
+    margin-top: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    width: 1350px;
+    padding: 10px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 20px;
+    margin-top: .8em;
+    border-radius: 15px;
+    border: 1px solid silver;
+}
+
+.date {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+}
+
+.date .form-group {
+    width: 50%;
+}
+
+.btns {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 0.5em;
+
+}
+
+.add a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3F51B6;
+    height: 50px;
+    width: 250px;
+    color: white;
+    padding: 1em;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 1em;
+    cursor: pointer;
+}
+
+.create a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #009087;
+    width: 220px;
+    height: 50px;
+    color: white;
+    padding: 1em;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-right: 1em;
+    margin-top: 1em;
+    cursor: pointer;
+}
+
+.form-group label {
+    font-size: 25px;
+}
