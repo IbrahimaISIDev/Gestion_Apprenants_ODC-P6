@@ -1,0 +1,95 @@
+.promotions{
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-right: 1em;
+    
+}
+
+.presence{
+	margin-top: 1%;
+	margin-right: 1em;
+	background-color: #fff;
+	border-radius: 0.5em;
+	padding-bottom:6%;
+	box-sizing: border-box;
+	font-size: 20px;
+	max-height: 650px;
+	overflow: scroll;
+
+}
+.recherhe{
+	margin: 1% 0 1% 1%;
+	display: flex;
+	justify-content: flex-start;
+	gap: 2em;
+	padding-top: 1em;
+}
+#etat{
+	height: 3em;
+	width: 5em;
+	border: 0.1em  solid #EEEDF0;
+	border-radius: 0.5em;
+	background-color: #F6F7FB;
+	font-size: 1em
+}
+#reference{
+	height: 3em;
+	width: 10em;
+	border: 0.1em  solid #EEEDF0;
+	border-radius: 0.5em;
+	background-color: #F6F7FB;
+	font-size: 1em
+
+}
+#date{
+	width: 10em;
+	border: 0.1em  solid #EEEDF0;
+	border-radius: 0.5em;
+	background-color: #F6F7FB;
+	font-size: 1em
+
+}
+
+button{
+	height: 3em;
+	width: 6em;
+	border: 0.1em  solid #EEEDF0;
+	border-radius: 0.5em;
+	background-color: #008F89;
+	font-size: 1em;
+	color: #fff;
+	cursor: pointer;
+
+}
+
+table {
+	width: 98%;
+	border-collapse: collapse;
+	margin-left: 1%;
+}
+th, td {
+	border: none;
+	padding: 8px;
+	text-align: center;
+}
+th {
+	background-color: #F7FAFF;
+	border: none;
+}
+/* tr:nth-child(even) {
+	background-color: #f2f2f2;
+} */
+td:nth-child(1) {
+	color: #558B59;
+	font-size: 1em;
+}
+td:nth-child(6) {
+	color: #558B59;
+	font-size: 1em;
+}
+td:nth-child(7) {
+	color: #64A19D;
+	font-size: 1em;
+}

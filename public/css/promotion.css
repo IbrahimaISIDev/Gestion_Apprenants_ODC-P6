@@ -1,0 +1,141 @@
+.promotions{
+	margin-top: 6%;
+	margin-left: 14.5%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-right: 1em;
+}
+
+.containe{
+	margin-left: 7%;
+    height: 600px;
+    background-color: #fff;
+    box-sizing: border-box;
+    margin-right: 1em;
+    border-radius: 1em;
+    margin-top: 1em;
+    padding: 2em;
+    position: relative;
+    top: 0;
+    width: 89%;	
+}
+
+.dev{
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.promo{
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: -1em;
+}
+
+.promo .un{
+    color: #008F89;
+}
+
+.input input{
+    border: 0.1em solid #EEEDF0;
+    padding: 1em;
+    background-color: #F6F7FB;
+    border-radius: 0.5em;
+    position: relative;
+}
+
+.input i{
+    color: #008F89;
+    font-size: 1em;
+    position: relative;
+    top: 0;
+    left: -1.5em;
+}
+
+.input input:focus{
+    outline: none;
+    padding: 1em;
+    cursor: pointer;
+}
+
+.input button{
+    border: 0.1em solid #EEEDF0;
+    padding: 1em;
+    background-color: #008F89;
+    border-radius: 0.5em;
+    position: relative;
+    left: -1.5em;
+    cursor: pointer;
+    padding-right: 3em;
+    margin-left: 2em;
+    padding-left: 4em;
+    text-align: center;
+    font-size: 1em;
+    color: white;
+}
+
+.input button:hover{
+    background-color: #008F89;
+    color: #fff;
+}
+
+.input button i{
+    color: #fff;
+}
+
+.footer{
+margin-right: 1em;
+margin-left: 14.5%;
+background-color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 2%;
+margin-top: 10.6%;
+border-radius: 3%;
+}
+
+p{
+color: _#F6FEFF;
+font-size: 1em;
+
+}
+
+table {
+	width: 80%;
+	border-collapse: collapse;
+	margin-left: 1%;
+    position: absolute;
+    top: 100px;
+    left: 14.5%;
+}
+th, td {
+	border: none;
+	padding: 8px;
+	text-align: center;
+}
+th {
+	background-color: #F7FAFF;
+	border: none;
+}
+td:nth-child(1) {
+	color: #558B59;
+	font-size: 1.2em;
+    font-weight: bolder;
+}
+
+table tr td:nth-child(4) input {
+    background-color: #CACACA;
+    border: 0.1em solid #EEEDF0;
+    border-radius: 1em; 
+  }
+
+ 
+  .footer i{
+	color: #008F89;
+    position: absolute;
+    left: 18%;
+    top: 45%;
+    font-size: 3em;
+  }
