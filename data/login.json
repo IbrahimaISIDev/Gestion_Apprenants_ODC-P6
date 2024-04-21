@@ -1,0 +1,79 @@
+[
+    {
+        "nom": "Diallo",
+        "prenom": "Ibrahima",
+        "email": "ibrahima.diallo@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
+    {
+        "nom": "Diallo",
+        "prenom": "Sory",
+        "email": "sory.diallo@odc.sn",
+        "role": "admin",
+        "motDePasse": "admin_odc@"
+    },
+    {
+        "nom": "Ba",
+        "prenom": "Néné",
+        "email": "nene.ba@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
+    {
+        "nom": "Diop",
+        "prenom": "Mouhamed",
+        "email": "mouhamed.diop@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
+    {
+        "nom": "Diop",
+        "prenom": "Seydina",
+        "email": "seydina.diop@odc.sn",
+        "role": "admin",
+        "motDePasse": "admin_odc@"
+    },
+    {
+        "nom": "Wade",
+        "prenom": "Dame",
+        "email": "dame.wade@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
+    {
+        "nom": "Ba",
+        "prenom": "Awa",
+        "email": "awa.ba@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
+    {
+        "nom": "Fall",
+        "prenom": "Moustapha",
+        "email": "moustapha.fall@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
+    {
+        "nom": "Diol",
+        "prenom": "Issa",
+        "email": "issa.diol@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
+    {
+        "nom": "Diol",
+        "prenom": "Issa",
+        "email": "issa.diol@odc.sn",
+        "role": "apprenant",
+        "motDePasse": "apprenant_odc"
+    },
+    {
+        "nom": "Mbow",
+        "prenom": "Saer",
+        "email": "saer.mbow@odc.sn",
+        "role": "admin",
+        "motDePasse": "admin_odc@"
+    }
+]
